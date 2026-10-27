@@ -1,0 +1,320 @@
+{
+ "Breakfast": [
+  {
+   "role": "Main",
+   "Mon": "Aloo Pyaz Paratha/Sattu Paratha",
+   "Tue": "Medu Vada/Mysore Bonda",
+   "Wed": "Onion Poha/Indori Poha",
+   "Thu": "Normal Idli/Tadka Idli",
+   "Fri": "Misal Pav/ Pav Bhaji",
+   "Sat": "Veg Uttapam",
+   "Sun": "Masala Dosa/Podi Masala Dosa"
+  },
+  {
+   "role": "Accompaniment",
+   "Mon": "Curd + Pickle",
+   "Tue": "Sambhar + chutney",
+   "Wed": "Lemon + Sev + Curd",
+   "Thu": "Sambhar + chutney",
+   "Fri": "Farsaan + lemon + onion",
+   "Sat": "Sambhar + chutney",
+   "Sun": "Sambhar + Chutney"
+  },
+  {
+   "role": "Egg",
+   "Mon": "Omelette or Boiled Egg",
+   "Tue": "Omelette or Boiled Egg",
+   "Wed": "Omelette or Boiled Egg",
+   "Thu": "Omelette or Boiled Egg",
+   "Fri": "Omelette or Boiled Egg",
+   "Sat": "Omelette or Boiled Egg",
+   "Sun": "Omelette or Boiled Egg"
+  },
+  {
+   "role": "Bread",
+   "Mon": "Bread+Butter+Jam",
+   "Tue": "Bread+Butter+Jam",
+   "Wed": "Bread+Butter+Jam",
+   "Thu": "Bread+Butter+Jam",
+   "Fri": "Bread+Butter+Jam",
+   "Sat": "Bread+Butter+Jam",
+   "Sun": "Bread+Butter+Jam"
+  },
+  {
+   "role": "Health Drink",
+   "Mon": "Bournvita",
+   "Tue": "Bournvita",
+   "Wed": "Bournvita",
+   "Thu": "Bournvita",
+   "Fri": "Bournvita",
+   "Sat": "Bournvita",
+   "Sun": "Bournvita"
+  },
+  {
+   "role": "Milk",
+   "Mon": "Hot & Cold Milk",
+   "Tue": "Hot & Cold Milk",
+   "Wed": "Hot & Cold Milk",
+   "Thu": "Hot & Cold Milk",
+   "Fri": "Hot & Cold Milk",
+   "Sat": "Hot & Cold Milk",
+   "Sun": "Hot & Cold Milk"
+  },
+  {
+   "role": "Beverage",
+   "Mon": "Tea & Coffee",
+   "Tue": "Tea & Coffee",
+   "Wed": "Tea & Coffee",
+   "Thu": "Tea & Coffee",
+   "Fri": "Tea & Coffee",
+   "Sat": "Tea & Coffee",
+   "Sun": "Tea & Coffee"
+  },
+  {
+   "role": "Cereal",
+   "Mon": "Cornflakes",
+   "Tue": "Cornflakes",
+   "Wed": "Cornflakes",
+   "Thu": "Cornflakes",
+   "Fri": "Cornflakes",
+   "Sat": "Cornflakes",
+   "Sun": "Cornflakes"
+  }
+ ],
+ "Lunch": [
+  {
+   "role": "Gravy 1",
+   "Mon": "Malai Kofta",
+   "Tue": "Punjabi Rajma",
+   "Wed": "Kadhi Pakoda",
+   "Thu": "Chhole Amritsari",
+   "Fri": "Soya Chilli/Soya masala",
+   "Sat": "Dum Aloo Gravy",
+   "Sun": "Pyaaz Paratha"
+  },
+  {
+   "role": "Gravy 2",
+   "Mon": "Black Chana Dry",
+   "Tue": "Veg Jalfrezi",
+   "Wed": "Veg Makhanwala",
+   "Thu": "Aloo methi",
+   "Fri": "Mix Veg Dry",
+   "Sat": "Kurkuri Bhindi",
+   "Sun": "Thecha + Lehsun chutney"
+  },
+  {
+   "role": "Dal",
+   "Mon": "Dal Tadka",
+   "Tue": "Sabut Masoor Dal",
+   "Wed": "Dal Fry",
+   "Thu": "Dal Makhani",
+   "Fri": "Dal Arhar",
+   "Sat": "Dal Masoor(Red)",
+   "Sun": "Dal Banjara"
+  },
+  {
+   "role": "Rice",
+   "Mon": "Plain Rice",
+   "Tue": "Plain Rice",
+   "Wed": "Plain Rice",
+   "Thu": "Jeera Rice",
+   "Fri": "Plain Rice",
+   "Sat": "Jeera Rice",
+   "Sun": "Veg Biryani/Soya Biryani"
+  },
+  {
+   "role": "Bread",
+   "Mon": "Chapati",
+   "Tue": "Chapati",
+   "Wed": "Chapati",
+   "Thu": "Puri + Chapati",
+   "Fri": "Chapati",
+   "Sat": "Chapati",
+   "Sun": "Chapati"
+  },
+  {
+   "role": "Soup",
+   "Mon": "Rasam",
+   "Tue": "Sambhar",
+   "Wed": "Rasam",
+   "Thu": "Sambhar",
+   "Fri": "Rasam",
+   "Sat": "Sambhar",
+   "Sun": "Kokam Rasam"
+  },
+  {
+   "role": "Papad",
+   "Mon": "Fryums",
+   "Tue": "Roasted Papad",
+   "Wed": "******",
+   "Thu": "Fried Papad",
+   "Fri": "Roasted Papad",
+   "Sat": "Fried Papad",
+   "Sun": "Roasted Papad"
+  },
+  {
+   "role": "Salad",
+   "Mon": "Moong Salad",
+   "Tue": "Mix Salad",
+   "Wed": "Green Salad",
+   "Thu": "Red Salad",
+   "Fri": "Macaroni Salad",
+   "Sat": "Sprout Moong Salad",
+   "Sun": "Dahi Vada + Chutney"
+  },
+  {
+   "role": "Curd",
+   "Mon": "Plain Curd",
+   "Tue": "******",
+   "Wed": "Plain Curd",
+   "Thu": "******",
+   "Fri": "Plain Curd",
+   "Sat": "Chana Salad",
+   "Sun": "Veg Raita"
+  },
+  {
+   "role": "Drink",
+   "Mon": "******",
+   "Tue": "Buttermilk",
+   "Wed": "******",
+   "Thu": "Fresh Lime Water",
+   "Fri": "******",
+   "Sat": "Punjabi Lassi",
+   "Sun": "******"
+  },
+  {
+   "role": "Dessert",
+   "Mon": "Gulab Jamun",
+   "Tue": "Shahi Tukda",
+   "Wed": "Rasmalai",
+   "Thu": "Sewai Kheer/Shrikhand",
+   "Fri": "Rabdi Jalebi",
+   "Sat": "Fruit Custard",
+   "Sun": "******"
+  }
+ ],
+ "Snacks": [
+  {
+   "role": "Main",
+   "Mon": "Spicy bhelpuri",
+   "Tue": "Veg Cutlet",
+   "Wed": "Vada Pav",
+   "Thu": "Papdi Chaat",
+   "Fri": "Dabeli",
+   "Sat": "Samosa",
+   "Sun": "French Fries"
+  },
+  {
+   "role": "Beverage",
+   "Mon": "Tea & Coffee",
+   "Tue": "Tea & Coffee",
+   "Wed": "Tea & Coffee",
+   "Thu": "Tea & Coffee",
+   "Fri": "Tea & Coffee",
+   "Sat": "Tea & Coffee",
+   "Sun": "Tea & Coffee"
+  }
+ ],
+ "Dinner": [
+  {
+   "role": "Gravy 1",
+   "Mon": "Paneer Butter Masala",
+   "Tue": "Samosa chaat/ Dahi Kachori",
+   "Wed": "Paneer Biryani",
+   "Thu": "Gobhi Manchurian Dry",
+   "Fri": "Paneer Lazeez",
+   "Sat": "Punjabi Rajma Gravy",
+   "Sun": "Pindi Chole Bhature"
+  },
+  {
+   "role": "Gravy 2",
+   "Mon": "Mix Veg dry",
+   "Tue": "Mushroom Masala",
+   "Wed": "Bhindi Dry",
+   "Thu": "Dudhi chana dry",
+   "Fri": "Gajar Matar Dry",
+   "Sat": "Soya Kheema",
+   "Sun": "Dahi Sev Puri / Pani Puri"
+  },
+  {
+   "role": "Dal",
+   "Mon": "Dal Palak",
+   "Tue": "Dal Kolhapuri",
+   "Wed": "Dal Masoor(Red)",
+   "Thu": "Dal Panchratna",
+   "Fri": "Dal Banjara",
+   "Sat": "Dal Tadka",
+   "Sun": "Dal makhani"
+  },
+  {
+   "role": "Rice",
+   "Mon": "Plain Rice",
+   "Tue": "Jeera Rice",
+   "Wed": "Plain Rice",
+   "Thu": "Veg Fried Rice/Hakka Noodles",
+   "Fri": "Jeera Rice",
+   "Sat": "Plain Rice",
+   "Sun": "Jeera Rice"
+  },
+  {
+   "role": "Bread",
+   "Mon": "Chapati",
+   "Tue": "Chapati",
+   "Wed": "Chapati",
+   "Thu": "Chapati",
+   "Fri": "Chapati + Paratha",
+   "Sat": "Chapati",
+   "Sun": "Chapati"
+  },
+  {
+   "role": "Salad",
+   "Mon": "Toss Salad",
+   "Tue": "Macaroni salad",
+   "Wed": "Mix Salad + Fried Papad",
+   "Thu": "GreenSalad",
+   "Fri": "Sirka Onion",
+   "Sat": "Toss Salad",
+   "Sun": "Onion + Lemon + Salad"
+  },
+  {
+   "role": "Curd/Raita",
+   "Mon": "Boondi Raita",
+   "Tue": "Plain Curd",
+   "Wed": "Veg Raita",
+   "Thu": "Plain Curd",
+   "Fri": "Boondi Raita",
+   "Sat": "Plain Curd",
+   "Sun": "Ice Cream"
+  },
+  {
+   "role": "Non-Veg/Egg",
+   "Mon": "Punjabi Egg Curry",
+   "Tue": "******",
+   "Wed": "Chicken Biryani",
+   "Thu": "Hot n Sour Soup/Tomato Soup + Croutons",
+   "Fri": "Chicken Patiala / Egg Kohlapuri",
+   "Sat": "******",
+   "Sun": "******"
+  },
+  {
+   "role": "Soup",
+   "Mon": "Rasam",
+   "Tue": "Sambhar",
+   "Wed": "Rasam",
+   "Thu": "Sambhar",
+   "Fri": "Rasam",
+   "Sat": "Sambhar",
+   "Sun": "Rasam"
+  },
+  {
+   "role": "Fruit",
+   "Mon": "Fruit",
+   "Tue": "******",
+   "Wed": "Fruit",
+   "Thu": "******",
+   "Fri": "Fruit",
+   "Sat": "******",
+   "Sun": "******"
+  }
+ ]
+}
